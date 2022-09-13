@@ -1,0 +1,31 @@
+Step 1: Done
+	Define The Question
+		Can we "predict" the price of a diamond based on its features?
+		What factors have the greatest impact?
+		
+		
+Step 2: Done
+	Collect the Data
+		Diamonds Prices Data from Kaggle.
+
+Step 3: 8/20/2022
+	Clean the Data
+		.info to get dtype and null data count.
+		Removing outliers
+		Removing duplicates
+		Standardize column names
+			and values for categorical columns
+		Handle Blanks
+		Reduce unnecessary columns
+				
+Step 4: 8/20/2022 & 8/23/2022
+	Explore the data, look for correlations and patterns. AKA EDA (Explorative data analysis.)
+	
+	
+Step 5: 8/23/22 & 8/25/22 & 8/27/22
+	Analyze/Process the results.
+	
+Make presentation: 8/30/22 & 9/1/22
+	Explain problem
+	Steps used to fix problems
+	Different hurdles encountered
